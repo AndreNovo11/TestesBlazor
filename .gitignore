@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.vcxproj.user
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+/packages/
+
+# MSTest test Results
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+
+# Build results
+[Bb]uild/
+[Oo]bj/
